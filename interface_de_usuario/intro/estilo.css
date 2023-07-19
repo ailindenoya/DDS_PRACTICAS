@@ -1,0 +1,41 @@
+.titulo{
+    color:tomato;
+    border-color: burlywood;
+}
+
+/*  .#id debe ser unico. 
+    #Nombre{atributo:valor}            
+
+    selector descendente -> nos permite descender a los sig niveles. 
+    ej si tenemos div, y adentro tenemos lista y adentro tenemos item. si queremos llegar al item
+    tenemos que indicar cada nivel hasta llegar al item.
+
+
+*/
+
+body{
+    background-color:darkkhaki;
+    -webkit-background-composite: border;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: whitesmoke;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration:underline;
+    
+}
+
